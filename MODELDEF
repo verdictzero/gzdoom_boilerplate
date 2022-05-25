@@ -1,0 +1,33 @@
+// ========================================================
+// GZDoom MODELDEF
+// ========================================================
+
+/*
+// -- 3D OBJECT NOTES --
+// (1) You need to have a name-matched placeholder sprite
+// (2) This sprite acts as an anchor of sorts for the 3D object
+// (3) Skin file goes in the /textures directory
+// (4) PBR maps attached to root texture are defined in materials.gl
+// (5) materials.gl, and stuff in general, really like the 8 character limit
+// (6) 3D objects retain their UV mapping information when converted to .md3
+// (7) Maybe set Blender's animation frame limit to 0 instead of the default 250,
+// as the number of animation frames seem to be exported to the .md3
+// (8) You need to give the anchor sprite a Doom editor number,
+// you can accomplish this by adding this to the MAPINFO lump:
+//
+// DoomEdNums {
+// 	9999 = examp1
+// }
+//
+*/
+
+/*
+// --SYNTAX EXAMPLE --
+//Model EXAMP1 {
+//	Path "models"
+//	Model 0 "examp1.md3"
+//	Skin 0 "examp1_d.png"
+//	Scale 1.0 1.0 1.0
+//	FrameIndex EXAM A 0 0
+//}
+*/

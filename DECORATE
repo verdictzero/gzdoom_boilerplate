@@ -1,0 +1,23 @@
+// ========================================================
+// GZDoom DECORATE - Master
+// ========================================================
+
+// --- PLAYER ---
+
+#include "actors/player/gzd_player.dec"
+
+// --- WEAPONS ---
+
+#include "actors/weapons.dec"
+
+// --- ITEMS ---
+
+#include "actors/items.dec"
+
+// --- ENEMIES ---
+
+#include "actors/enemies.dec"
+
+// --- PROPS ---
+
+#include "actors/props.dec"
