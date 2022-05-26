@@ -1,4 +1,61 @@
 // ========================================================
-// GZDoom MAPINFO
+// MAPINFO
 // ========================================================
 
+// ========================================================
+// Episodes
+// ========================================================
+
+clearepisodes
+
+episode UNTITLED
+{
+	name = "UNTITLED"
+}
+
+// ========================================================
+// Skills
+// ========================================================
+
+clearskills
+
+skill casual
+{
+	Name = "Casual"
+	AutoUseHealth
+	AmmoFactor = 2
+	DamageFactor = 0.5
+	EasyBossBrain
+	SpawnFilter = casual
+	Key = "c"
+}
+
+skill less_casual
+{
+	Name="Less Casual"
+	AmmoFactor = 1
+	DamageFactor = 1
+	SpawnFilter = less_casual
+	Key = "l"
+}
+
+skill dont
+{
+	Name="Do Not Select This"
+	AmmoFactor = 1
+	DamageFactor = 1
+	SpawnFilter = dont
+	Key = "d"
+}
+
+// ========================================================
+// Maps
+// ========================================================
+
+map DEBUG "Debug"
+{
+	LevelNum = 99
+	EvenLighting
+	SmoothLighting
+	NoIntermission
+}

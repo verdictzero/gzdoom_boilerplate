@@ -1,1 +1,27 @@
+Actor PALM___1 21700
+{
+  +FloorClip
+  +SOLID
+  Radius 512
+  Height 512
+  States
+  {
+  Spawn:
+    PLM1 A -1
+    Stop
+  }
+}
 
+Actor HOSTA__1 21701
+{
+  +FloorClip
+  +SOLID
+  Radius 512
+  Height 512
+  States
+  {
+  Spawn:
+    HST1 A -1
+    Stop
+  }
+}

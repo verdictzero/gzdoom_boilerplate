@@ -4,7 +4,7 @@
 
 // --- PLAYER ---
 
-#include "actors/player/gzd_player.dec"
+#include "actors/gzd_player.dec"
 
 // --- WEAPONS ---
 
