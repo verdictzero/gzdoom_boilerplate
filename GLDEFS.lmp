@@ -2,3 +2,4 @@
 // GZDoom GLDEFS - Master
 // ========================================================
 
+#include "gldefs/sky.gl"

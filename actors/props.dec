@@ -1,9 +1,9 @@
-Actor PALM___1 21700
+Actor PALMTRE1 17000
 {
   +FloorClip
   +SOLID
-  Radius 512
-  Height 512
+  Radius 8
+  Height 8
   States
   {
   Spawn:
@@ -12,16 +12,16 @@ Actor PALM___1 21700
   }
 }
 
-Actor HOSTA__1 21701
+Actor HSTABSH1 17001
 {
   +FloorClip
   +SOLID
-  Radius 512
-  Height 512
+  Radius 8
+  Height 8
   States
   {
   Spawn:
-    HST1 A -1
+    BSH1 A -1
     Stop
   }
 }

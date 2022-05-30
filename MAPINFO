@@ -8,17 +8,24 @@
 
 clearepisodes
 
-episode UNTITLED
+episode DEBUG
 {
-	name = "UNTITLED"
+	name = "DEBUG"
 }
 
 // ========================================================
 // Skills
+// 
+// !!! REALLY IMPORTANT NOTE !!!
+// Skills affect 'thing' rendering --- so if your 'things' 
+// aren't showing up, it is probably because they haven't
+// been configured to identify custom skill levels.
+//
 // ========================================================
 
-clearskills
+// clearskills
 
+/*
 skill casual
 {
 	Name = "Casual"
@@ -32,21 +39,22 @@ skill casual
 
 skill less_casual
 {
-	Name="Less Casual"
+	Name = "Less Casual"
 	AmmoFactor = 1
 	DamageFactor = 1
 	SpawnFilter = less_casual
 	Key = "l"
 }
 
-skill dont
+skill certain_death
 {
-	Name="Do Not Select This"
+	Name = "Certain Death"
 	AmmoFactor = 1
 	DamageFactor = 1
-	SpawnFilter = dont
-	Key = "d"
+	SpawnFilter = certain_death
+	Key = "c"
 }
+*/
 
 // ========================================================
 // Maps
@@ -54,8 +62,9 @@ skill dont
 
 map DEBUG "Debug"
 {
-	LevelNum = 99
-	EvenLighting
+	LevelNum = 1000
+	Sky1 = "bluesky1"
+	Music = "lvl1"
 	SmoothLighting
 	NoIntermission
 }
