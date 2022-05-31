@@ -1,0 +1,16 @@
+// ========================================================
+// GZDoom GLDEFS - Materials
+// ========================================================
+
+material texture materials/DIRT1/DIRT1_C.png
+	{
+		normal materials/DIRT1/DIRT1_N.png
+	}
+	
+material texture materials/TILE1/TILE1_C.png
+	{
+		normal materials/TILE1/TILE1_N.png
+		metallic materials/TILE1/TILE1_M.png
+		roughness materials/TILE1/TILE1_R.png
+		ao materials/TILE1/TILE1_AO.png
+	}

@@ -3,3 +3,4 @@
 // ========================================================
 
 #include "gldefs/sky.gl"
+#include "gldefs/materials.gl"

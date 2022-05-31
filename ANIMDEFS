@@ -2,7 +2,6 @@
 // GZDoom ANIMDEFS
 // ========================================================
 
-
 // WATER
 texture WAT201
     pic WAT201 tics 2
