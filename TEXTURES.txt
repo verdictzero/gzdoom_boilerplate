@@ -111,14 +111,4 @@ Texture "OFCDESK2", 256, 256
 	Patch "OFCDESK2", 0, 0
 }
 
-Texture "TILE1_C", 1024, 1024
-{
-	Patch "TILE1_C", 0, 0
-}
-
-Texture "DIRT1_C", 1024, 1024
-{
-	Patch "DIRT1_C", 0, 0
-}
-
 // End of texture definitions
