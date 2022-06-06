@@ -5,8 +5,8 @@
 material texture DIRT1_C
 	{
 		normal materials/DIRT1_N.png
-		glossiness 2
-		specularlevel 2
+		glossiness 4
+		specularlevel 4
 	}
 	
 material texture TILE1_C
@@ -24,7 +24,7 @@ material texture SPK1_C
 		normal materials/SPK1_N.png
 		metallic materials/SPK1_M.png
 		roughness materials/SPK1_R.png
-		ao materials/SPK1_O.png
-		glossiness 8
+		// ao materials/SPK1_O.png
+		glossiness 4
 		specularlevel 8
 	}
