@@ -2,19 +2,29 @@
 // GZDoom GLDEFS - Materials
 // ========================================================
 
-material texture materials/DIRT1_C.png
+material texture DIRT1_C.png
 	{
 		normal materials/DIRT1_N.png
-		glossiness 0.0
-		specularlevel 0.0
+		glossiness 2
+		specularlevel 2
 	}
 	
-material texture materials/TILE1_C.png
+material texture TILE1_C.png
 	{
 		normal materials/TILE1_N.png
 		metallic materials/TILE1_M.png
 		roughness materials/TILE1_R.png
-		ao materials/TILE1_AO.png
-		glossiness 0.0
-		specularlevel 0.0
+		ao materials/TILE1_O.png
+		glossiness 8
+		specularlevel 8
+	}
+	
+material texture SPK1_C.png
+	{
+		normal materials/SPK1_N.png
+		metallic materials/SPK1_M.png
+		roughness materials/SPK1_R.png
+		ao materials/SPK1_O.png
+		glossiness 8
+		specularlevel 8
 	}
