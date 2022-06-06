@@ -26,7 +26,8 @@ Actor HSTABSH1 17001
 	}
 }
 
-actor SPEAKER1 {
+actor SPEAKER1 19000 
+	{
 	+FloorClip
 	+SOLID
 	Radius 8

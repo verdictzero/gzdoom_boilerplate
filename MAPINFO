@@ -68,3 +68,11 @@ map DEBUG "Debug"
 	SmoothLighting
 	NoIntermission
 }
+
+// ========================================================
+// Editor Numbers
+// ========================================================
+
+DoomEdNums {
+	19000 = SPEAKER1
+}
