@@ -19,7 +19,7 @@ material texture TILE1_C
 		specularlevel 8
 	}
 	
-material texture SPEAKER1
+material texture SPK1_C
 	{
 		normal materials/SPK1_N.png
 		metallic materials/SPK1_M.png

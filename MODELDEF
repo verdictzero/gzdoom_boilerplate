@@ -35,7 +35,7 @@
 Model SPEAKER1 {
 	Path "models"
 	Model 0 "SPK1A0.md3"
-	Skin 0 "SPEAKER1"
+	Skin 0 "SPK1_C.png"
 	Scale 1.0 1.0 1.0
 	FrameIndex SPK1 A 0 0
 }
