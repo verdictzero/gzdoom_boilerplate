@@ -121,6 +121,11 @@ Texture "SPK1_C", 512, 512
 	Patch "SPK1_C", 0, 0
 }
 
+Texture "SPK2_C", 1024, 1024
+{
+	Patch "SPK2_C", 0, 0
+}
+
 Texture "TILE1_C", 1024, 1024
 {
 	Patch "TILE1_C", 0, 0

@@ -38,3 +38,16 @@ actor SPEAKER1 19000
 		Stop
 	}
 }
+
+actor SPEAKER2 19001
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		SPK2 A -1
+		Stop
+	}
+}
