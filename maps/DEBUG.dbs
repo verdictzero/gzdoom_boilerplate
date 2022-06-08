@@ -22,9 +22,9 @@ maps
 		}
 		defaultfloortexture = "DEBUG010";
 		defaultceiltexture = "DEBUG013";
-		defaulttoptexture = "DEBUG011";
-		defaultwalltexture = "DEBUG011";
-		defaultbottomtexture = "DEBUG011";
+		defaulttoptexture = "OFCCUB01";
+		defaultwalltexture = "OFCCUB01";
+		defaultbottomtexture = "OFCCUB01";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -37,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 246.5535f;
-		viewpositiony = -104.7364f;
-		viewscale = 1.979673f;
+		viewpositionx = 421.8741f;
+		viewpositiony = -938.6824f;
+		viewscale = 0.5331818f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 8;
+			gridsize = 16;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
