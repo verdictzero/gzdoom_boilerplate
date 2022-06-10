@@ -48,4 +48,12 @@ Model SPEAKER2 {
 	FrameIndex SPK2 A 0 0
 }
 
+Model DOLPHIN {
+	Path "models"
+	Model 0 "DLPHNA0.obj"
+	Skin 0 "DLPHN_C"
+	Scale 1.0 1.0 1.0
+	FrameIndex DLPHN A 0 0
+}
+
 

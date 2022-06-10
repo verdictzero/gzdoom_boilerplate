@@ -25,3 +25,11 @@ material texture SPK1_C
 		roughness materials/SPK1_R.png
 		ao materials/SPK1_O.png
 	}
+	
+material texture DLPHN_C
+	{
+		normal materials/DLPHN_N.png
+		metallic materials/DLPHN_M.png
+		roughness materials/DLPHN_R.png
+		ao materials/DLPHN_O.png
+	}
