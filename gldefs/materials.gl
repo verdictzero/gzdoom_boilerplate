@@ -32,4 +32,6 @@ material texture DLPHN_C
 		metallic materials/DLPHN_M.png
 		roughness materials/DLPHN_R.png
 		ao materials/DLPHN_O.png
+		glossiness 16
+		specular 16
 	}

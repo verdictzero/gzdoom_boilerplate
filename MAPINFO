@@ -76,4 +76,5 @@ map DEBUG "Debug"
 DoomEdNums {
 	19000 = SPEAKER1
 	19001 = SPEAKER2
+	19002 = DOLPHIN
 }

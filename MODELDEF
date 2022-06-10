@@ -44,16 +44,16 @@ Model SPEAKER2 {
 	Path "models"
 	Model 0 "SPK2A0.obj"
 	Skin 0 "SPK2_C"
-	Scale 1.0 1.0 1.0
+	Scale 20.0 20.0 20.0
 	FrameIndex SPK2 A 0 0
 }
 
 Model DOLPHIN {
 	Path "models"
-	Model 0 "DLPHNA0.obj"
+	Model 0 "DLPHA0.obj"
 	Skin 0 "DLPHN_C"
-	Scale 1.0 1.0 1.0
-	FrameIndex DLPHN A 0 0
+	Scale 70.0 70.0 70.0
+	FrameIndex DLPH A 0 0
 }
 
 

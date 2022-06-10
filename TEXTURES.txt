@@ -136,4 +136,9 @@ Texture "DLPHN_C", 1024, 1024
 	Patch "DLPHN_C", 0, 0
 }
 
+Texture "TESTPATT", 1200, 600
+{
+	Patch "TESTPATT", 0, 0
+}
+
 // End of texture definitions

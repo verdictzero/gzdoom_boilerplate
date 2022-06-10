@@ -51,3 +51,16 @@ actor SPEAKER2 19001
 		Stop
 	}
 }
+
+actor DOLPHIN 19002
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		DLPH A -1
+		Stop
+	}
+}
