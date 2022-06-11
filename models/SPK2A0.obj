@@ -1,6 +1,6 @@
 # Blender v2.93.2 OBJ File: ''
 # www.blender.org
-mtllib SPK2A0.mtl
+# mtllib SPK2A0.mtl
 o SPK2A0
 v 0.618421 0.371812 0.659943
 v 0.577823 0.354634 0.722730
@@ -4481,7 +4481,7 @@ vn 0.3076 -0.7267 0.6142
 vn 0.7354 -0.2982 0.6086
 vn -0.7354 0.2982 0.6086
 vn 0.3075 0.7267 0.6143
-usemtl speaker
+# usemtl speaker
 s 1
 f 1/1/1 2/2/1 3/3/1
 f 4/4/2 5/5/2 6/6/2
