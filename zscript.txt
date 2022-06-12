@@ -1,5 +1,7 @@
 version "4.7.1"
 
+#include "GXZForms/Include.zsc"
+
 #include "zscript/player/experience.zs"
 #include "zscript/player/player.zs"
 

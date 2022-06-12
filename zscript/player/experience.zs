@@ -10,8 +10,8 @@ class Experience : Inventory
 
 	override bool TryPickup (in out Actor toucher)
 	{
-		toucher.totalexp += Amount;
-		GoAwayAndDie();
+//		toucher.PlayerExp.totalexp += Amount;
+//		GoAwayAndDie();
 		return true;
 	}
 }

@@ -1,0 +1,10 @@
+class GXZFHandler ui {
+	virtual void buttonClickCommand(GXZFButton caller, string command) {
+	}
+	
+	virtual void buttonHeldCommand(GXZFButton caller, string command) {
+	}
+
+	virtual void elementHoverChanged(GXZFElement caller, string command, bool unhovered) {
+	}
+}

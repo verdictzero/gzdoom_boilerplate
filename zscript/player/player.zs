@@ -2,10 +2,10 @@ class GazeeboPlayer : PlayerPawn
 {
 	int totalexp;
 	
-	property TotalExp: totalexp;
+	property PlayerExp: totalexp;
 
 	Default
 	{
-		GazeeboPlayer.totalexp 0;
+		GazeeboPlayer.PlayerExp 0;
 	}	
 }
