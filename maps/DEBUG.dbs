@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\Evan Snyder\\Desktop\\gzdoom_boilerplate";
+				location = "C:\\Users\\admin\\Desktop\\gzdoom_boilerplate";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -37,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -2.680733f;
-		viewpositiony = -457.7212f;
-		viewscale = 0.2426853f;
+		viewpositionx = 740.0711f;
+		viewpositiony = -233.4024f;
+		viewscale = 0.5331766f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
