@@ -14,17 +14,17 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\Evan Snyder\\Desktop\\gzdoom_boilerplate";
+				location = "C:\\Users\\admin\\Desktop\\gzdoom_boilerplate";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
-		defaultfloortexture = "DEBUG013";
-		defaultceiltexture = "DEBUG013";
-		defaulttoptexture = "DEBUG013";
-		defaultwalltexture = "DEBUG013";
-		defaultbottomtexture = "DEBUG013";
+		defaultfloortexture = "DEBUG014";
+		defaultceiltexture = "DEBUG014";
+		defaulttoptexture = "DEBUG014";
+		defaultwalltexture = "DEBUG014";
+		defaultbottomtexture = "DEBUG014";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -37,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -475.5942f;
-		viewpositiony = -597.8531f;
-		viewscale = 3.137424f;
+		viewpositionx = 394.5371f;
+		viewpositiony = -620.19f;
+		viewscale = 0.1750638f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 64;
+			gridsize = 128;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;

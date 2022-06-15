@@ -50,3 +50,19 @@ material texture LCSIGN_C
 		ao materials/LCSIGN/LCSIGN_A.png
 		brightmap materials/LCSIGN/LCSIGN_B.png
 	}
+	
+material texture CEIL1_C
+	{
+		normal materials/CEIL1/CEIL1_N.png
+		metallic materials/CEIL1/CEIL1_M.png
+		roughness materials/CEIL1/CEIL1_R.png
+		ao materials/CEIL1/CEIL1_A.png
+	}
+	
+material texture MARB1_C
+	{
+		normal materials/MARB1/MARB1_N.png
+		metallic materials/MARB1/MARB1_M.png
+		roughness materials/MARB1/MARB1_R.png
+		ao materials/MARB1/MARB1_A.png
+	}

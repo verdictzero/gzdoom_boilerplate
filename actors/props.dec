@@ -47,7 +47,7 @@ actor SPEAKER2 19001
 	Height 8
 	States {
 		Spawn:
-		SPK2 A -1
+		SPK2 A -1 NoDelay  A_StartSound("CAKE", 0, CHANF_LOOP) 
 		Stop
 	}
 }

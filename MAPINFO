@@ -60,11 +60,20 @@ skill certain_death
 // Maps
 // ========================================================
 
+map TITLEMAP "Title Map"
+{
+	LevelNum = 999
+	Sky1 = "bluesky1"
+	Music = "WIND1R"
+	SmoothLighting
+	NoIntermission
+}
+
 map DEBUG "Debug"
 {
 	LevelNum = 1000
 	Sky1 = "bluesky1"
-	Music = "lvl1"
+	Music = "WIND1R"
 	SmoothLighting
 	NoIntermission
 }
