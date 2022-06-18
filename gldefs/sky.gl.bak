@@ -2,7 +2,7 @@
 // GZDoom GLDFS - Skyboxes
 // ========================================================
 
-Skybox bluesky1
+Skybox bluesky1 fliptop
 {
 	bsky1_bk
 	bsky1_rt
