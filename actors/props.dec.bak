@@ -1,0 +1,66 @@
+Actor PALMTRE1 17000
+{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States
+	{
+		Spawn:
+		PLM1 A -1
+		Stop
+	}
+}
+
+Actor HSTABSH1 17001
+{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States
+	{
+		Spawn:
+		BSH1 A -1
+		Stop
+	}
+}
+
+actor SPEAKER1 19000 
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		SPK1 A -1
+		Stop
+	}
+}
+
+actor SPEAKER2 19001
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		SPK2 A -1 NoDelay  A_StartSound("CAKE", 0, CHANF_LOOP) 
+		Stop
+	}
+}
+
+actor DOLPHIN 19002
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		DLPH A -1
+		Stop
+	}
+}

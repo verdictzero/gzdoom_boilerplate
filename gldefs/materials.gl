@@ -66,3 +66,20 @@ material texture MARB1_C
 		roughness materials/MARB1/MARB1_R.png
 		ao materials/MARB1/MARB1_A.png
 	}
+	
+material texture VELMA_C
+	{
+		normal materials/VELMA/VELMA_N.png
+		metallic materials/VELMA/VELMA_M.png
+		roughness materials/VELMA/VELMA_R.png
+		ao materials/VELMA/VELMA_A.png
+	}
+	
+material texture NSFW_C
+	{
+		normal materials/NSFW/NSFW_N.png
+		metallic materials/NSFW/NSFW_M.png
+		roughness materials/NSFW/NSFW_R.png
+		ao materials/NSFW/NSFW_A.png
+		brightmap materials/NSFW/NSFW_B.png
+	}

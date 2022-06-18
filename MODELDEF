@@ -57,3 +57,10 @@ Model DOLPHIN {
 }
 
 
+Model VELMA {
+	Path "models"
+	Model 0 "VELMZ0.obj"
+	Skin 0 "VELMA_C"
+	Scale 1.0 1.0 1.0
+	FrameIndex VELM Z 0 0
+}

@@ -63,8 +63,8 @@ skill certain_death
 map TITLEMAP "Title Map"
 {
 	LevelNum = 999
-	Sky1 = "oversky1"
-	Music = "WIND1R"
+	Sky1 = "bluesky1"
+	Music = "DARK2"
 	SmoothLighting
 	NoIntermission
 }
@@ -72,8 +72,8 @@ map TITLEMAP "Title Map"
 map DEBUG "Debug"
 {
 	LevelNum = 1000
-	Sky1 = "oversky1"
-	Music = "WIND1R"
+	Sky1 = "bluesky1"
+	Music = "DARK2"
 	SmoothLighting
 	NoIntermission
 }
@@ -86,4 +86,5 @@ DoomEdNums {
 	19000 = SPEAKER1
 	19001 = SPEAKER2
 	19002 = DOLPHIN
+	19003 = VELMA
 }

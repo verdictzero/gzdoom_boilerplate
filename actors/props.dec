@@ -64,3 +64,16 @@ actor DOLPHIN 19002
 		Stop
 	}
 }
+
+actor VELMA 19003
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		VELM Z -1
+		Stop
+	}
+}
