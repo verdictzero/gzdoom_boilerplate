@@ -83,3 +83,11 @@ material texture NSFW_C
 		ao materials/NSFW/NSFW_A.png
 		brightmap materials/NSFW/NSFW_B.png
 	}
+	
+material texture POOL1_C
+	{
+		normal materials/POOL1/POOL1_N.png
+		metallic materials/POOL1/POOL1_M.png
+		roughness materials/POOL1/POOL1_R.png
+		ao materials/POOL1/POOL1_A.png
+	}
