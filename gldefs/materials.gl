@@ -83,10 +83,10 @@ material texture POOL1_C
 		ao materials/POOL1/POOL1_A.png
 	}
 	
-material texture METPAN1_C
+material texture METPAN1C
 	{
-		normal materials/METPAN1/METPAN1_N.png
-		metallic materials/METPAN1/METPAN1_M.png
-		roughness materials/METPAN1/METPAN1_R.png
-		ao materials/METPAN1/METPAN1_A.png
+		normal materials/METPAN1/METPAN1N.png
+		metallic materials/METPAN1/METPAN1M.png
+		roughness materials/METPAN1/METPAN1R.png
+		ao materials/METPAN1/METPAN1A.png
 	}
