@@ -73,7 +73,7 @@ map DEBUG "Debug"
 {
 	LevelNum = 1000
 	Sky1 = "bluesky1"
-	Music = "WIND1R"
+	Music = "ROOMTONE"
 	SmoothLighting
 	NoIntermission
 }
