@@ -64,3 +64,11 @@ Model VELMA {
 	Scale 1.0 1.0 1.0
 	FrameIndex VELM Z 0 0
 }
+
+Model PALM2 {
+	Path "models"
+	Model 0 "PALMA0.obj"
+	Skin 0 "PALM2_C"
+	Scale 1.0 1.0 1.0
+	FrameIndex PLM2 A 0 0
+}

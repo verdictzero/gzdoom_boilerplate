@@ -90,11 +90,3 @@ material texture METPAN1C
 		roughness materials/METPAN1/METPAN1R.png
 		ao materials/METPAN1/METPAN1A.png
 	}
-	
-material texture PALM2_C
-	{
-		normal materials/PALM2/PALM2_N.png
-		metallic materials/PALM2/PALM2_M.png
-		roughness materials/PALM2/PALM2_R.png
-		ao materials/PALM2/PALM2_A.png
-	}
