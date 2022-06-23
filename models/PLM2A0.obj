@@ -22031,7 +22031,7 @@ vn 0.044308 0.643997 0.763744
 vn 0.946989 0.019582 0.320670
 # 7073 normals
 
-usemtl palm-material
+# usemtl palm-material
 s 1
 f 1/1/1 16/2/2 3/3/3
 f 4/4/4 3/3/3 5/5/5

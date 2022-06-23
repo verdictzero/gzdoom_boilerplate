@@ -77,3 +77,16 @@ actor VELMA 19003
 		Stop
 	}
 }
+
+actor PALMTRE2 19004
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		PLM2 A -1
+		Stop
+	}
+}

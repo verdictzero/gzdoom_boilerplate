@@ -65,10 +65,10 @@ Model VELMA {
 	FrameIndex VELM Z 0 0
 }
 
-Model PALM2 {
+Model PALMTRE2 {
 	Path "models"
-	Model 0 "PALMA0.obj"
+	Model 0 "PLM2A0.obj"
 	Skin 0 "PALM2_C"
-	Scale 1.0 1.0 1.0
+	Scale 100.0 100.0 100.0
 	FrameIndex PLM2 A 0 0
 }
