@@ -90,3 +90,16 @@ actor PALMTRE2 19004
 		Stop
 	}
 }
+
+actor FOUNTART 19005
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		FART A -1
+		Stop
+	}
+}

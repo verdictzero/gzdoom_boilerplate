@@ -98,3 +98,11 @@ material texture PALM2_C
 		roughness materials/PALM2/PALM2_R.png
 		ao materials/PALM2/PALM2_A.png
 	}
+	
+material texture FART_C
+	{
+		normal materials/FART/FART_N.png
+		metallic materials/FART/FART_M.png
+		roughness materials/FART/FART_R.png
+		ao materials/FART/FART_A.png
+	}

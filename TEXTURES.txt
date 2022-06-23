@@ -561,4 +561,9 @@ Texture "PALM2_C", 4096, 4096
 	Patch "PALM2_C", 0, 0
 }
 
+Texture "FART_C", 2048, 2048
+{
+	Patch "FART_C", 0, 0
+}
+
 // End of texture definitions
