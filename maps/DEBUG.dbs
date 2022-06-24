@@ -14,7 +14,7 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\admin\\Desktop\\gzdoom_boilerplate";
+				location = "C:\\Users\\Evan Snyder\\Desktop\\gzdoom_boilerplate";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -37,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 15866.73f;
-		viewpositiony = 4626.73f;
-		viewscale = 0.2329806f;
+		viewpositionx = -278.1024f;
+		viewpositiony = 133.1944f;
+		viewscale = 0.2329807f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 64;
+			gridsize = 256;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -98,6 +98,15 @@ maps
 					outertop = 5440;
 					outerbottom = 2432;
 				}
+			}
+		}
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
 			}
 		}
 	}
