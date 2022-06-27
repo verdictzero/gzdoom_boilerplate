@@ -84,6 +84,8 @@ Model FOUNTART {
 Model MAPLE1 {
 	Path "models"
 	Model 0 "MAPLA0.obj"
+	Model 1 "MAPLA0.obj"
+	Model 2	"MAPLA0.obj"
 	Skin 0 "MAPLE1C"
 	Skin 1 "MLEAF1C"
 	Skin 2 "MTWIG1C"
