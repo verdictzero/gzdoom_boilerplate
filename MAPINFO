@@ -69,9 +69,18 @@ map TITLEMAP "Title Map"
 	NoIntermission
 }
 
-map DEBUG "Debug"
+map DEBUG "Sandbox"
 {
 	LevelNum = 1000
+	Sky1 = "bluesky1"
+	Music = "ROOMTONE"
+	SmoothLighting
+	NoIntermission
+}
+
+map DEBUG2 "Open World Experiment"
+{
+	LevelNum = 1001
 	Sky1 = "bluesky1"
 	Music = "ROOMTONE"
 	SmoothLighting
@@ -89,4 +98,6 @@ DoomEdNums {
 	19003 = VELMA
 	19004 = PALMTRE2
 	19005 = FOUNTART
+	19006 = TREE_5
+	19007 = MAPLE1
 }

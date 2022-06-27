@@ -80,3 +80,13 @@ Model FOUNTART {
 	Scale 100.0 100.0 100.0
 	FrameIndex FART A 0 0
 }
+
+Model MAPLE1 {
+	Path "models"
+	Model 0 "MAPLA0.obj"
+	Skin 0 "MAPLE1C"
+	Skin 1 "MLEAF1C"
+	Skin 2 "MTWIG1C"
+	Scale 1.0 1.0 1.0
+	FrameIndex MAPL A 0 0
+}
