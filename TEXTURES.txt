@@ -591,19 +591,4 @@ Texture "LAWN5C", 1024, 1024
 	Patch "LAWN5C", 0, 0
 }
 
-Texture "MAPLE1C", 4096, 4096
-{
-	Patch "MAPLE1C", 0, 0
-}
-
-Texture "MLEAF1C", 200, 200
-{
-	Patch "MLEAF1C", 0, 0
-}
-
-Texture "MTWIG1C", 1024, 1024
-{
-	Patch "MTWIG1C", 0, 0
-}
-
 // End of texture definitions
