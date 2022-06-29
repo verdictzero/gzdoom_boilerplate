@@ -14,13 +14,13 @@ maps
 			resource0
 			{
 				type = 1;
-				location = "C:\\Users\\Evan Snyder\\Desktop\\gzdoom_boilerplate";
+				location = "C:\\Users\\admin\\Desktop\\gzdoom_boilerplate";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 		}
-		defaultfloortexture = "DEBUG006";
+		defaultfloortexture = "POOL1_C";
 		defaultceiltexture = "F_SKY1";
 		defaulttoptexture = "DEBUG007";
 		defaultwalltexture = "DEBUG007";
@@ -37,9 +37,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 373.4325f;
-		viewpositiony = 202.3374f;
-		viewscale = 0.9010649f;
+		viewpositionx = 5727.668f;
+		viewpositiony = 8738.147f;
+		viewscale = 0.2329797f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
@@ -50,7 +50,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 32;
+			gridsize = 16;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
@@ -82,6 +82,32 @@ maps
 			autocloseonsuccess = true;
 			exitcodeiserror = true;
 			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			threedfloormode
+			{
+				
+				controlsectorarea
+				{
+					usecustomtagrange = false;
+					outerleft = 15936;
+					outerright = 23936;
+					outertop = 5440;
+					outerbottom = 2432;
+				}
+			}
+		}
+		
+		fieldtypes
+		{
+			
+			sector
+			{
+				user_managed_3d_floor = 3;
+			}
 		}
 	}
 }

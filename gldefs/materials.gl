@@ -42,15 +42,6 @@ material texture DLPHN_C
 		ao materials/DLPHN_A.png
 	}
 	
-material texture LCSIGN_C
-	{
-		normal materials/LCSIGN/LCSIGN_N.png
-		metallic materials/LCSIGN/LCSIGN_M.png
-		roughness materials/LCSIGN/LCSIGN_R.png
-		ao materials/LCSIGN/LCSIGN_A.png
-		brightmap materials/LCSIGN/LCSIGN_B.png
-	}
-	
 material texture CEIL1_C
 	{
 		normal materials/CEIL1/CEIL1_N.png
@@ -66,3 +57,113 @@ material texture MARB1_C
 		roughness materials/MARB1/MARB1_R.png
 		ao materials/MARB1/MARB1_A.png
 	}
+	
+material texture VELMA_C
+	{
+		normal materials/VELMA/VELMA_N.png
+		metallic materials/VELMA/VELMA_M.png
+		roughness materials/VELMA/VELMA_R.png
+		ao materials/VELMA/VELMA_A.png
+	}
+	
+material texture NSFW_C
+	{
+		normal materials/NSFW/NSFW_N.png
+		metallic materials/NSFW/NSFW_M.png
+		roughness materials/NSFW/NSFW_R.png
+		ao materials/NSFW/NSFW_A.png
+		brightmap materials/NSFW/NSFW_B.png
+	}
+	
+material texture POOL1_C
+	{
+		normal materials/POOL1/POOL1_N.png
+		metallic materials/POOL1/POOL1_M.png
+		roughness materials/POOL1/POOL1_R.png
+		ao materials/POOL1/POOL1_A.png
+	}
+	
+material texture METPAN1C
+	{
+		normal materials/METPAN1/METPAN1N.png
+		metallic materials/METPAN1/METPAN1M.png
+		roughness materials/METPAN1/METPAN1R.png
+		ao materials/METPAN1/METPAN1A.png
+	}
+	
+material texture PALM2_C
+	{
+		normal materials/PALM2/PALM2_N.png
+		metallic materials/PALM2/PALM2_M.png
+		roughness materials/PALM2/PALM2_R.png
+		ao materials/PALM2/PALM2_A.png
+	}
+	
+material texture FART_C
+	{
+		normal materials/FART/FART_N.png
+		metallic materials/FART/FART_M.png
+		roughness materials/FART/FART_R.png
+		ao materials/FART/FART_A.png
+	}
+	
+material texture TXDOOR1C
+	{
+		normal materials/TXDOOR1/TXDOOR1N.png
+		metallic materials/TXDOOR1/TXDOOR1M.png
+		roughness materials/TXDOOR1/TXDOOR1R.png
+		ao materials/TXDOOR1/TXDOOR1A.png
+	}
+	
+	
+material texture GCLIFF1C
+	{
+		normal materials/GCLIFF1/GCLIFF1N.png
+		metallic materials/GCLIFF1/GCLIFF1M.png
+		roughness materials/GCLIFF1/GCLIFF1R.png
+		ao materials/GCLIFF1/GCLIFF1A.png
+	}
+	
+	
+material texture GRASS5C
+	{
+		normal materials/GRASS5/GRASS5N.png
+		metallic materials/GRASS5/GRASS5M.png
+		roughness materials/GRASS5/GRASS5R.png
+		ao materials/GRASS5/GRASS5A.png
+	}
+	
+	
+material texture LAWN5C
+	{
+		normal materials/GRASS5/GRASS5N.png
+		metallic materials/GRASS5/GRASS5M.png
+		roughness materials/GRASS5/GRASS5R.png
+		ao materials/GRASS5/GRASS5A.png
+	}
+	
+material texture MAPLE1C
+	{
+		normal materials/MAPLE1/MAPLE1N.png
+		# metallic materials/MAPLE1/MAPLE1M.png
+		roughness materials/MAPLE1/MAPLE1R.png
+		# ao materials/MAPLE1/MAPLE1A.png
+	}
+	
+material texture MLEAF1C
+	{
+		normal materials/MAPLE1/MLEAF1N.png
+		# metallic materials/MAPLE1/MLEAF1M.png
+		roughness materials/MAPLE1/MLEAF1R.png
+		# ao materials/MAPLE1/MLEAF1A.png
+	}
+	
+	
+material texture MTWIG1C
+	{
+		# normal materials/MAPLE1/MTWIG1N.png
+		# metallic materials/MAPLE1/MTWIG1M.png
+		# roughness materials/MAPLE1/MTWIG1R.png
+		# ao materials/MAPLE1/MTWIG1A.png
+	}
+	

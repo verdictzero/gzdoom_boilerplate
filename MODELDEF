@@ -57,3 +57,26 @@ Model DOLPHIN {
 }
 
 
+Model VELMA {
+	Path "models"
+	Model 0 "VELMZ0.obj"
+	Skin 0 "VELMA_C"
+	Scale 1.0 1.0 1.0
+	FrameIndex VELM Z 0 0
+}
+
+Model PALMTRE2 {
+	Path "models"
+	Model 0 "PLM2A0.obj"
+	Skin 0 "PALM2_C"
+	Scale 100.0 100.0 100.0
+	FrameIndex PLM2 A 0 0
+}
+
+Model FOUNTART {
+	Path "models"
+	Model 0 "FARTA0.obj"
+	Skin 0 "FART_C"
+	Scale 100.0 100.0 100.0
+	FrameIndex FART A 0 0
+}

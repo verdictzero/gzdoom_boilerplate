@@ -11,3 +11,13 @@ Skybox bluesky1
 	bsky1_up
 	bsky1_dn
 }
+
+Skybox oversky1
+{
+	osky1_bk
+	osky1_rt
+	osky1_fr
+	osky1_lf
+	osky1_up
+	osky1_dn
+}

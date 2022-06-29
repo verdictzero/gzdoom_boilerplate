@@ -64,3 +64,69 @@ actor DOLPHIN 19002
 		Stop
 	}
 }
+
+actor VELMA 19003
+	{
+	+FloorClip
+	+SOLID
+	+NOGRAVITY
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		VELM Z -1
+		Stop
+	}
+}
+
+actor PALMTRE2 19004
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		PLM2 A -1
+		Stop
+	}
+}
+
+actor FOUNTART 19005
+	{
+	+FloorClip
+	+SOLID
+	Radius 8
+	Height 8
+	States {
+		Spawn:
+		FART A -1
+		Stop
+	}
+}
+
+actor TREE_5 19006
+	{
+	+FloorClip
+	+SOLID
+	Radius 32
+	Height 32
+	States {
+		Spawn:
+		TRE5 A -1
+		Stop
+	}
+}
+
+actor MAPLE1 19007
+	{
+	+FloorClip
+	+SOLID
+	Radius 32
+	Height 32
+	States {
+		Spawn:
+		MAPL A -1
+		Stop
+	}
+}
