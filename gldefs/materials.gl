@@ -142,28 +142,18 @@ material texture LAWN5C
 		ao materials/GRASS5/GRASS5A.png
 	}
 	
-material texture MAPLE1C
+material texture ZPALM5C
 	{
-		normal materials/MAPLE1/MAPLE1N.png
-		# metallic materials/MAPLE1/MAPLE1M.png
-		roughness materials/MAPLE1/MAPLE1R.png
-		# ao materials/MAPLE1/MAPLE1A.png
+		normal materials/ZPALM/ZPALM5N.png
+		metallic materials/ZPALM/ZPALM5M.png
+		roughness materials/ZPALM/ZPALM5R.png
+		ao materials/ZPALM/ZPALM5A.png
 	}
 	
-material texture MLEAF1C
+material texture ZPALM6C
 	{
-		normal materials/MAPLE1/MLEAF1N.png
-		# metallic materials/MAPLE1/MLEAF1M.png
-		roughness materials/MAPLE1/MLEAF1R.png
-		# ao materials/MAPLE1/MLEAF1A.png
+		normal materials/ZPALM/ZPALM6N.png
+		metallic materials/ZPALM/ZPALM6M.png
+		roughness materials/ZPALM/ZPALM6R.png
+		ao materials/ZPALM/ZPALM6A.png
 	}
-	
-	
-material texture MTWIG1C
-	{
-		# normal materials/MAPLE1/MTWIG1N.png
-		# metallic materials/MAPLE1/MTWIG1M.png
-		# roughness materials/MAPLE1/MTWIG1R.png
-		# ao materials/MAPLE1/MTWIG1A.png
-	}
-	

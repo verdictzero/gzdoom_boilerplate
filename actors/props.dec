@@ -118,7 +118,7 @@ actor TREE_5 19006
 	}
 }
 
-actor MAPLE1 19007
+actor Z_PALM 19008
 	{
 	+FloorClip
 	+SOLID
@@ -126,7 +126,7 @@ actor MAPLE1 19007
 	Height 32
 	States {
 		Spawn:
-		MAPL A -1
+		ZPLM A -1
 		Stop
 	}
 }
