@@ -21,3 +21,13 @@ Skybox oversky1
 	osky1_up
 	osky1_dn
 }
+
+Skybox dashsky1
+{
+	lskya_bk
+	lskya_rt
+	lskya_fr
+	lskya_lf
+	lskya_up
+	lskya_dn
+}

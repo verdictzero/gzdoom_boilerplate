@@ -157,3 +157,11 @@ material texture ZPALM6C
 		roughness materials/ZPALM/ZPALM6R.png
 		ao materials/ZPALM/ZPALM6A.png
 	}
+	
+material texture CLIFF7C
+	{
+		normal materials/CLIFF7/CLIFF7N.png
+		metallic materials/CLIFF7/CLIFF7M.png
+		roughness materials/CLIFF7/CLIFF7R.png
+		ao materials/CLIFF7/CLIFF7A.png
+	}

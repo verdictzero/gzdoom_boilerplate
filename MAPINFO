@@ -81,7 +81,7 @@ map DEBUG "Sandbox"
 map DEBUG2 "Open World Experiment"
 {
 	LevelNum = 1001
-	Sky1 = "bluesky1"
+	Sky1 = "dashsky1"
 	Music = "ROOMTONE"
 	SmoothLighting
 	NoIntermission
