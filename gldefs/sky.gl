@@ -31,3 +31,13 @@ Skybox dashsky1
 	lskya_up
 	lskya_dn
 }
+
+Skybox xskybox fliptop
+{
+	xsky_bk2
+	xsky_rt2
+	xsky_ft2
+	xsky_lf2
+	xsky_up2
+	xsky_dn2
+}

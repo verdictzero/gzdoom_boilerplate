@@ -1,0 +1,43 @@
+// ========================================================
+// GZDoom GLDFS - Skyboxes
+// ========================================================
+
+Skybox bluesky1
+{
+	bsky1_bk
+	bsky1_rt
+	bsky1_fr
+	bsky1_lf
+	bsky1_up
+	bsky1_dn
+}
+
+Skybox oversky1
+{
+	osky1_bk
+	osky1_rt
+	osky1_fr
+	osky1_lf
+	osky1_up
+	osky1_dn
+}
+
+Skybox dashsky1
+{
+	lskya_bk
+	lskya_rt
+	lskya_fr
+	lskya_lf
+	lskya_up
+	lskya_dn
+}
+
+Skybox xskybox fliptop
+{
+  XSKY_BK2
+  XSKY_RT2
+  XSKY_FT2
+  XSKY_LF2
+  XSKY_UP2
+  XSKY_DN2
+}
